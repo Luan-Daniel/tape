@@ -1,0 +1,4 @@
+unity:
+  - version: 2.6.0
+    path: 'third-party\unity\2.6.0'
+    remote_source: https://github.com/ThrowTheSwitch/Unity/releases/tag/v2.6.0
